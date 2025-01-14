@@ -1,11 +1,11 @@
 # 21CW Oceans Team Collaborative Research Project
 
-This central repository allows us to discuss project ideas, work on analysis scripts together, suggest new analysis directions, discuss figures, etc.  
+We want to work together on a specific research topic (to be determined). This central repository allows us to discuss project ideas, work on analysis scripts together, suggest new analysis directions, discuss figures, etc. 
 
 
 # How it works
 
-All aspects of the project are tracked through issues. Create an issue to represent each small task. Issues will develop to include discussion of analysis methods and figures associated with each task.
+All aspects of the project are tracked through issues. Create an issue to represent each small task. Issues will develop to include discussion of analysis methods and figures associated with each task. The first key issue is what do we want to work on together?
 
 The [Project/analysis Overview](https://github.com/users/PaulSpence/projects/2)) lists all the analysis tasks (as detailed in the issues) at various stages.
 
@@ -15,16 +15,7 @@ As we figure out the main results and develop the storyline, we can add to the [
 
 # Meeting schedule
 
-TBD
-    
-# Short summary of results
+TBD - Hackathon every two weeks for 1-2 hrs.
 
-**(AABW)**
-
-**S1**- Contrasting to a freshening rebound due to an increase in salty Ross Sea bottom water progating west from 150E in the late 2010's, the AABW salinity in 140 and 150E is at the  early 2010's level somewhat reducing from the late 2010's. This indicates the salinity rebound has peaked out.
-
-**S2**- 
-
-**(others)**
-
-**S8**- Southern Boundary of ACC has located farther south than late-2010's at 115E and 150E.
+# Research Ideas
+We
