@@ -1,5 +1,7 @@
 # 21CW Oceans Team Collaborative Research Project
 
+What is our ambition in the ocean space? Will we treat the ocean just as the key ingredient to circulations and weather that it is, or do we want to study “ocean weather” in its own right?
+
 We want to work together on a specific research topic (to be determined). This central repository allows us to discuss project ideas, work on analysis scripts together, suggest new analysis directions, discuss figures, etc. 
 
 
