@@ -5,7 +5,7 @@ We want to work together on a specific research topic (to be determined). This c
 
 # How it works
 
-All aspects of the project are tracked through issues. Create an issue to represent each small task. Issues will develop to include discussion of analysis methods and figures associated with each task. The first key issue is what do we want to work on together?
+All aspects of the project are tracked through issues. Create an issue to represent each small task. Issues will develop to include discussion of analysis methods and figures associated with each task. The first key issue is to list [Project Ideas]](https://github.com/PaulSpence/21CW_Ocean_Collab/issues/1). What do we want to work on together?
 
 The [Project/analysis Overview](https://github.com/users/PaulSpence/projects/2) lists all the analysis tasks (as detailed in the issues) at various stages.
 
