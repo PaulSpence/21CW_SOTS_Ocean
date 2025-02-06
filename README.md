@@ -15,4 +15,7 @@ To start contributing to the code, make your own branch directly in this reposit
 
 # Meeting schedule
 
-TBD - Hackathon (not a regular meeting) where we actively report on progress and work on this research every two weeks for 1-2 hrs.
+Every second Monday 2:30-4:30 in the IMAS board room or [zoom](https://utas.zoom.us/j/2515841854). See meeting notes here:
+https://github.com/PaulSpence/21CW_Ocean_Collab/issues/7
+
+
