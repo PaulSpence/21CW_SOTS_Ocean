@@ -6,8 +6,8 @@ Research Topic: We want to work together on obs vs model evaluation of air-sea i
 
 Steps: 
 * understand/evaluate the SOTS mooring data. The mooring data is at roughly 46.7S, 142E and spans 2010->. See [issue](https://github.com/PaulSpence/21CW_SOTS_Ocean/issues/14)
-* evaluate ACCESS-om2 configs in the SOTS region (e.g. air-sea fluxes, T,S,O, atm fields)
-* gather obs data in common directory on /g/data/jk72. e.g. Ocean: SOTS, Glorys. Atm: JRA, SOTS, ERA5, coupled global model. 
+* evaluate ACCESS-om2 configs in the SOTS region (e.g. air-sea fluxes, T,S,O, atm fields) See [issue](https://github.com/PaulSpence/21CW_SOTS_Ocean/issues/15) 
+* gather obs data in common directory on /g/data/jk72. e.g. Ocean: SOTS, Glorys. Atm: JRA, SOTS, ERA5, coupled global model.
 * run a regional nested model of SOTS region at submesoscale resolution (~1km to 300 m). See [issue](https://github.com/PaulSpence/21CW_SOTS_Ocean/issues/9)
 
 # How it works
