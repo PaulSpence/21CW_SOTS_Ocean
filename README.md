@@ -1,6 +1,6 @@
 # 21CW Oceans Team Collaborative Research Project
 
-Research Topic: We want to work together on obs vs model evaluation of air-sea interactions near the Southern Ocean Time Series ([SOTS](https://www.csiro.au/en/about/facilities-collections/mnf/voyages-schedules/multi-voyage-projects/sots-facility) mooring . 
+Research Topic: We want to work together on obs vs model evaluation of air-sea interactions near the Southern Ocean Time Series ([SOTS](https://www.csiro.au/en/about/facilities-collections/mnf/voyages-schedules/multi-voyage-projects/sots-facility)) mooring . 
 
 ## Goal 1: Present poster at 21CW workshop in November 2025. 
 
