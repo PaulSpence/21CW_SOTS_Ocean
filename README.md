@@ -23,4 +23,18 @@ To start contributing to the code, make your own branch directly in this reposit
 Every second Monday 2:30-4:30 in the IMAS board room or [zoom](https://utas.zoom.us/j/2515841854). See meeting notes here:
 https://github.com/PaulSpence/21CW_SOTS_Ocean/issues/7
 
+# Where stuff lives
+
+No data? No worries. Datasets we're using live here:
+
+| Dataset | Directory                                   |
+|---------------|-----------------------------------------------|
+| ERA5 (atm. reanalysis)           |  `/g/data/rt52/era5/single-levels/reanalysis`   |
+| GLORYS (ocean reanalysis)        |  `/g/data/jk72/mxr581/SOTS-project-data/glorys`     |
+| SOTS ocean                       | tba        |
+| SOFS atm/fluxes                  | tba        |
+
+
+
+
 
