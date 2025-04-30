@@ -32,7 +32,7 @@ No data? No worries. Datasets we're using live here:
 | ERA5 (atm. reanalysis)           |  `/g/data/rt52/era5/single-levels/reanalysis`   |
 | GLORYS (ocean reanalysis)        |  `/g/data/jk72/mxr581/SOTS-project-data/glorys`     |
 | SOTS ocean                       | tba        |
-| SOFS atm/fluxes                  | tba        |
+| SOFS atm/fluxes                  | `/g/data/jk72/mxr581/SOTS-project-data/sots/flux`        |
 
 
 
