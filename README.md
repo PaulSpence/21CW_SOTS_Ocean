@@ -33,6 +33,7 @@ No data? No worries. Datasets we're using live here:
 | GLORYS (ocean reanalysis)        |  `/g/data/jk72/mxr581/SOTS-project-data/glorys`     |
 | SOTS ocean                       | tba        |
 | SOFS atm/fluxes                  | `/g/data/jk72/mxr581/SOTS-project-data/sots/flux`        |
+| RG ARGO                          | `/g/data/jk72/mxr581/SOTS-project-data/RG_ARGO`        |
 
 
 
