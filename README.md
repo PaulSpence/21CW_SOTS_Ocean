@@ -35,7 +35,12 @@ No data? No worries. Datasets we're using live here:
 | SOFS atm/fluxes                  | `/g/data/jk72/mxr581/SOTS-project-data/sots/flux`        |
 | RG ARGO                          | `/g/data/jk72/mxr581/SOTS-project-data/RG_ARGO`        |
 
+# Area of interest
 
+- Proposed 3km model domain: `latitude_extent = [-55, -30], longitude_extent = [131, 158]`
+- Proposed 1km model domain: maybe same? as compute permits!
+
+Based on spatial plots of surface heat flux (?) or some other variable (?) we'd like to define a box over which we'll average key variables for timeseries plots
 
 
 
