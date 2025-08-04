@@ -31,7 +31,7 @@ No data? No worries. Datasets we're using live here:
 |---------------|-----------------------------------------------|
 | ERA5 (atm. reanalysis)           |  `/g/data/rt52/era5/single-levels/reanalysis`   |
 | GLORYS (ocean reanalysis)        |  `/g/data/jk72/mxr581/SOTS-project-data/glorys`     |
-| SOTS ocean                       | tba        |
+| SOTS ocean                       | `/g/data/jk72/mxr581/SOTS-project-data/sots/ocean`        |
 | SOFS atm/fluxes                  | `/g/data/jk72/mxr581/SOTS-project-data/sots/flux`        |
 | RG ARGO                          | `/g/data/jk72/mxr581/SOTS-project-data/RG_ARGO`        |
 
