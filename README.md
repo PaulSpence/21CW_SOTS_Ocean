@@ -39,6 +39,7 @@ No data? No worries. Datasets we're using live here:
 
 - Proposed 3km model domain: `latitude_extent = [-55, -30], longitude_extent = [131, 158]`
 - Proposed 1km model domain: maybe same? as compute permits!
+- On ACESS-OM2 model domain: latitude_extent = [-50,-45] and longitude_extent = [141,146]
 
 Based on spatial plots of surface heat flux (?) or some other variable (?) we'd like to define a box over which we'll average key variables for timeseries plots
 
